@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Gerenciador Agrícola</title>
+		<meta charset="utf-8" />
+		<link rel="stylesheet" type="text/css" href="Projeto.css">
+	</head>
+	<div class="login">
+ 	 <h1>Agrarian Menagement</h1>
+  		<label for="Name">Name or E-mail:</label><br />
+ 		 	<input type="text" /><br />
+ 	 		<label for="Name">Password:</label><br />
+ 	 		<input type="text" />
+  		<button>Login</button><button>Create an account</button><button>?</button>
+	</div>
+</html>	
+
